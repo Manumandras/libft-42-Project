@@ -4,7 +4,7 @@
 
 ## Description
 
-Libft is a reimplementation of a subset of the C standard library, written from scratch in C.
+libft is a reimplementation of a subset of the C standard library, written from scratch in C.
 The goal of this project is to build a personal library of commonly used functions that can be reused in later 42 projects.
 
 The library provides implementations for string manipulation, memory handling, character checks, conversions, and file descriptor output functions.
