@@ -12,6 +12,14 @@ Additionally, the bonus part introduces a simple linked list API.
 
 All functions are compiled into a static library libft.a, which can be linked against other programs.
 
+<br>
+
+## Platform support
+
+This project is developed for Unix-like systems, primarily Linux. It uses Unix-oriented tooling and a Makefile-based build system, so it is generally not intended to run natively on Windows without adaptation. On Windows, the recommended way to build and run it is through WSL.
+
+<br>
+
 ## Instructions
 
 ### Build
